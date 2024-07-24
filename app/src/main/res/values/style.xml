@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme">
+
+    </style>
+
+    <style name="ListViewBackground">
+        <item name="android:textColor">@color/list_item_color</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:background">@drawable/shape_rounded_corners</item>
+    </style>
+</resources>
